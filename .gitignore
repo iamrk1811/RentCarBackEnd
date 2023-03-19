@@ -1,0 +1,6 @@
+# complied
+__pycache__/
+*.py[cod]
+# environment
+env/
+rentcar/prod.env
